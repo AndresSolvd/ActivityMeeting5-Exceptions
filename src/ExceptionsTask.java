@@ -7,7 +7,7 @@ import java.lang.Math;
 import org.apache.logging.log4j.Logger;
 
 
-public class Main {
+public class ExceptionsTask {
     public static void rectangleArea() {
         Scanner scan = new Scanner(System.in);
         System.out.println("please input 2 side sizes for rectangle area, on different lines");
